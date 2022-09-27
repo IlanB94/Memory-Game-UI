@@ -1,0 +1,6 @@
+C:\Users\ilan\source\repos\MemoryGameUI\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.AssemblyReference.cache
+C:\Users\ilan\source\repos\MemoryGameUI\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.CoreCompileInputs.cache
+C:\Users\ilan\source\repos\MemoryGameUI\MemoryGameUI\bin\Debug\MemoryGameUI.exe
+C:\Users\ilan\source\repos\MemoryGameUI\MemoryGameUI\bin\Debug\MemoryGameUI.pdb
+C:\Users\ilan\source\repos\MemoryGameUI\MemoryGameUI\obj\Debug\MemoryGameUI.exe
+C:\Users\ilan\source\repos\MemoryGameUI\MemoryGameUI\obj\Debug\MemoryGameUI.pdb
